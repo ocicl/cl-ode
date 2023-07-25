@@ -1,0 +1,10 @@
+* cl-ode
+
+Common Lisp CFFI wrappers to the ODE physics engine
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/BradWBeer/cl-ode.git   |
+| commit  | fcd72ab  |
+| systems | cl-ode |
+|---------+-------------------------------------------|
+
